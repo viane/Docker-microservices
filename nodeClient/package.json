@@ -8,6 +8,10 @@
     "start": "npm install --silent && node server.js"
   },
   "dependencies": {
-    "express": "^4.16.1"
-  }
+    "express": "^4.16.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "license": "ISC"
 }
